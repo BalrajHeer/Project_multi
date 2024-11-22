@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Balraj\\Desktop\\project multi\\Project\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1E6BAF-C710-4B39-9AEA-09E2C693709E}|EmpProj\\Project.csproj|C:\\Users\\Balraj\\Desktop\\project multi\\Project\\Project\\empproj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1E6BAF-C710-4B39-9AEA-09E2C693709E}|EmpProj\\Project.csproj|solutionrelative:empproj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1E6BAF-C710-4B39-9AEA-09E2C693709E}|EmpProj\\EmpProj3.csproj|C:\\Users\\Balraj\\Desktop\\project multi\\Project\\Project\\empproj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1E6BAF-C710-4B39-9AEA-09E2C693709E}|EmpProj\\EmpProj3.csproj|solutionrelative:empproj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1E6BAF-C710-4B39-9AEA-09E2C693709E}|EmpProj\\Project.csproj|c:\\users\\balraj\\desktop\\project multi\\project\\project\\empproj\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1E6BAF-C710-4B39-9AEA-09E2C693709E}|EmpProj\\Project.csproj|solutionrelative:empproj\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1E6BAF-C710-4B39-9AEA-09E2C693709E}|EmpProj\\Project.csproj|c:\\users\\balraj\\desktop\\project multi\\project\\project\\empproj\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E1E6BAF-C710-4B39-9AEA-09E2C693709E}|EmpProj\\Project.csproj|solutionrelative:empproj\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1E6BAF-C710-4B39-9AEA-09E2C693709E}|EmpProj\\EmpProj3.csproj|C:\\Users\\Balraj\\Desktop\\project multi\\Project\\Project\\empproj\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E1E6BAF-C710-4B39-9AEA-09E2C693709E}|EmpProj\\EmpProj3.csproj|solutionrelative:empproj\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1E6BAF-C710-4B39-9AEA-09E2C693709E}|EmpProj\\EmpProj3.csproj|C:\\Users\\Balraj\\Desktop\\project multi\\Project\\Project\\empproj\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1E6BAF-C710-4B39-9AEA-09E2C693709E}|EmpProj\\EmpProj3.csproj|solutionrelative:empproj\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1E6BAF-C710-4B39-9AEA-09E2C693709E}|EmpProj\\Project.csproj|C:\\Users\\Balraj\\Desktop\\project multi\\Project\\Project\\empproj\\bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1E6BAF-C710-4B39-9AEA-09E2C693709E}|EmpProj\\Project.csproj|solutionrelative:empproj\\bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1E6BAF-C710-4B39-9AEA-09E2C693709E}|EmpProj\\EmpProj3.csproj|C:\\Users\\Balraj\\Desktop\\project multi\\Project\\Project\\empproj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E1E6BAF-C710-4B39-9AEA-09E2C693709E}|EmpProj\\EmpProj3.csproj|solutionrelative:empproj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1E6BAF-C710-4B39-9AEA-09E2C693709E}|EmpProj\\EmpProj3.csproj|C:\\Users\\Balraj\\Desktop\\project multi\\Project\\Project\\empproj\\bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1E6BAF-C710-4B39-9AEA-09E2C693709E}|EmpProj\\EmpProj3.csproj|solutionrelative:empproj\\bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Balraj\\Desktop\\project multi\\Project\\Project\\EmpProj\\Form2.cs",
+              "RelativeDocumentMoniker": "EmpProj\\Form2.cs",
+              "ToolTip": "C:\\Users\\Balraj\\Desktop\\project multi\\Project\\Project\\EmpProj\\Form2.cs",
+              "RelativeToolTip": "EmpProj\\Form2.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwHcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T06:02:24.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BLL.cs",
+              "DocumentMoniker": "C:\\Users\\Balraj\\Desktop\\project multi\\Project\\Project\\EmpProj\\BLL.cs",
+              "RelativeDocumentMoniker": "EmpProj\\BLL.cs",
+              "ToolTip": "C:\\Users\\Balraj\\Desktop\\project multi\\Project\\Project\\EmpProj\\BLL.cs",
+              "RelativeToolTip": "EmpProj\\BLL.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwE0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:39:04.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Balraj\\Desktop\\project multi\\Project\\Project\\EmpProj\\Form1.cs",
+              "RelativeDocumentMoniker": "EmpProj\\Form1.cs",
+              "ToolTip": "C:\\Users\\Balraj\\Desktop\\project multi\\Project\\Project\\EmpProj\\Form1.cs",
+              "RelativeToolTip": "EmpProj\\Form1.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAqwLsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:56:23.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DAL.cs",
+              "DocumentMoniker": "C:\\Users\\Balraj\\Desktop\\project multi\\Project\\Project\\EmpProj\\DAL.cs",
+              "RelativeDocumentMoniker": "EmpProj\\DAL.cs",
+              "ToolTip": "C:\\Users\\Balraj\\Desktop\\project multi\\Project\\Project\\EmpProj\\DAL.cs",
+              "RelativeToolTip": "EmpProj\\DAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:22:57.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Balraj\\Desktop\\project multi\\Project\\Project\\EmpProj\\Form2.cs",
+              "RelativeDocumentMoniker": "EmpProj\\Form2.cs",
+              "ToolTip": "C:\\Users\\Balraj\\Desktop\\project multi\\EmpProj3_v3\\EmpProj3 v3\\EmpProj\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\..\\EmpProj3_v3\\EmpProj3 v3\\EmpProj\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:03:40.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BLL.cs",
+              "DocumentMoniker": "C:\\Users\\Balraj\\Desktop\\project multi\\Project\\Project\\EmpProj\\BLL.cs",
+              "RelativeDocumentMoniker": "EmpProj\\BLL.cs",
+              "ToolTip": "C:\\Users\\Balraj\\Desktop\\project multi\\Project\\Project\\EmpProj\\BLL.cs",
+              "RelativeToolTip": "EmpProj\\BLL.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:04:41.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Balraj\\Desktop\\project multi\\Project\\Project\\EmpProj\\Form1.cs",
+              "RelativeDocumentMoniker": "EmpProj\\Form1.cs",
+              "ToolTip": "C:\\Users\\Balraj\\Desktop\\project multi\\Project\\Project\\EmpProj\\Form1.cs",
+              "RelativeToolTip": "EmpProj\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:04:41.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Balraj\\Desktop\\project multi\\Project\\Project\\EmpProj\\Form2.cs",
+              "RelativeDocumentMoniker": "EmpProj\\Form2.cs",
+              "ToolTip": "C:\\Users\\Balraj\\Desktop\\project multi\\Project\\Project\\EmpProj\\Form2.cs [Design]",
+              "RelativeToolTip": "EmpProj\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:51:46.715Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Balraj\\Desktop\\project multi\\Project\\Project\\EmpProj\\Form1.cs",
+              "RelativeDocumentMoniker": "EmpProj\\Form1.cs",
+              "ToolTip": "C:\\Users\\Balraj\\Desktop\\project multi\\EmpProj3_v3\\EmpProj3 v3\\EmpProj\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\EmpProj3_v3\\EmpProj3 v3\\EmpProj\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:43:14.015Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

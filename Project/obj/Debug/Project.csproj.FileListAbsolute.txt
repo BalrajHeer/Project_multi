@@ -1,0 +1,33 @@
+C:\Users\Balraj\Desktop\project multi\EmpProj3_v3\EmpProj3 v3\EmpProj\bin\Debug\EmpProj.exe.config
+C:\Users\Balraj\Desktop\project multi\EmpProj3_v3\EmpProj3 v3\EmpProj\bin\Debug\EmpProj.exe
+C:\Users\Balraj\Desktop\project multi\EmpProj3_v3\EmpProj3 v3\EmpProj\bin\Debug\EmpProj.pdb
+C:\Users\Balraj\Desktop\project multi\EmpProj3_v3\EmpProj3 v3\EmpProj\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Balraj\Desktop\project multi\EmpProj3_v3\EmpProj3 v3\EmpProj\obj\Debug\EmpProj3.Form1.resources
+C:\Users\Balraj\Desktop\project multi\EmpProj3_v3\EmpProj3 v3\EmpProj\obj\Debug\EmpProj3.Form2.resources
+C:\Users\Balraj\Desktop\project multi\EmpProj3_v3\EmpProj3 v3\EmpProj\obj\Debug\EmpProj.Properties.Resources.resources
+C:\Users\Balraj\Desktop\project multi\EmpProj3_v3\EmpProj3 v3\EmpProj\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Balraj\Desktop\project multi\EmpProj3_v3\EmpProj3 v3\EmpProj\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Balraj\Desktop\project multi\EmpProj3_v3\EmpProj3 v3\EmpProj\obj\Debug\EmpProj.exe
+C:\Users\Balraj\Desktop\project multi\EmpProj3_v3\EmpProj3 v3\EmpProj\obj\Debug\EmpProj.pdb
+C:\Users\Balraj\Desktop\project multi\Project\Project\EmpProj\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Balraj\Desktop\project multi\Project\Project\EmpProj\obj\Debug\EmpProj3.Form1.resources
+C:\Users\Balraj\Desktop\project multi\Project\Project\EmpProj\obj\Debug\EmpProj3.Form2.resources
+C:\Users\Balraj\Desktop\project multi\Project\Project\EmpProj\obj\Debug\EmpProj.Properties.Resources.resources
+C:\Users\Balraj\Desktop\project multi\Project\Project\EmpProj\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Balraj\Desktop\project multi\Project\Project\EmpProj\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Balraj\Desktop\project multi\Project\Project\EmpProj\obj\Debug\EmpProj.exe
+C:\Users\Balraj\Desktop\project multi\Project\Project\EmpProj\obj\Debug\EmpProj.pdb
+C:\Users\Balraj\Desktop\project multi\Project\Project\EmpProj\bin\Debug\EmpProj.exe.config
+C:\Users\Balraj\Desktop\project multi\Project\Project\EmpProj\bin\Debug\EmpProj.exe
+C:\Users\Balraj\Desktop\project multi\Project\Project\EmpProj\bin\Debug\EmpProj.pdb
+C:\Users\Balraj\Desktop\project multi\Project\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Balraj\Desktop\project multi\Project\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\Balraj\Desktop\project multi\Project\Project\Project\obj\Debug\Project.Form2.resources
+C:\Users\Balraj\Desktop\project multi\Project\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Balraj\Desktop\project multi\Project\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Balraj\Desktop\project multi\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Balraj\Desktop\project multi\Project\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Balraj\Desktop\project multi\Project\Project\Project\bin\Debug\Project.exe
+C:\Users\Balraj\Desktop\project multi\Project\Project\Project\bin\Debug\Project.pdb
+C:\Users\Balraj\Desktop\project multi\Project\Project\Project\obj\Debug\Project.exe
+C:\Users\Balraj\Desktop\project multi\Project\Project\Project\obj\Debug\Project.pdb
